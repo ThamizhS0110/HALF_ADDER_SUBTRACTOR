@@ -74,3 +74,7 @@ Developed by:Thamizh RegisterNumber:24900483*/
 
 
 **Result:**
+
+
+
+The Half Adder and Half Subtractor circuits were successfully designed and simulated in Quartus. Their truth tables and timing waveforms confirmed correct functionality.
